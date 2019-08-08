@@ -1,0 +1,31 @@
+.form {
+    
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    height:300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-top: 150px;
+    
+}
+.pass {
+    margin-top: 20px;
+}
+.but {
+    width: 172px;
+    margin-top: 20px;
+    border: 1px solid green;
+    background-color: green;
+    
+}
+body{
+    background-color: green;
+}
+.container{
+    text-align: center;
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    
+}
